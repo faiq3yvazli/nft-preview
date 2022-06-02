@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@root/tailwind/config": ["./tailwind.config.js"],
+      "@root/*": ["./src/*"]
+    }
+  }
+}

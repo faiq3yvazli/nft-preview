@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lazy-bg {
+  background-image: none !important;
+}

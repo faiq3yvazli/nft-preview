@@ -1,0 +1,5 @@
+include:
+  - project: 'nft-v1/devops'
+    ref: master
+    file: 'gitlab-configs/nft-fe.yml'
+
